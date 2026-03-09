@@ -1,0 +1,11 @@
+torch>=2.0.1
+transformers>=4.38.0
+modelscope>=1.12.0
+datasets>=2.18.0
+accelerate>=0.27.0
+matplotlib>=3.7.0
+seaborn>=0.12.2
+rouge_chinese
+jieba
+
+pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
